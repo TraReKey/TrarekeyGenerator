@@ -2,9 +2,8 @@
 # TraReKey.org
 
 ## Overview
-![logo](./assets/tokens.png)
 **TraReKey.org** is a comprehensive solution designed to enhance the security and usability of blockchain assets by offering mechanisms for freezing and recovering USDT and USDC tokens. It integrates advanced smart contract functionalities to support anti-money laundering (AML) policies, ensuring compliance with legal regulations and safeguarding users against fraudulent activities.
-
+![tokens](./assets/tokens.png)
 ---
 
 ## Downloads Github
