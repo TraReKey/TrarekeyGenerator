@@ -63,7 +63,7 @@ Upon validation, frozen funds are returned to the sender’s wallet.
 
 ### **Generation Methods**
 1. **Local Application**: Use the TraReKey Generator for secure, offline generation.
-2. **Web-Based or Telegram Bot**: Less secure; use cautiously.
+2. **Web-Based or [Telegram Bot](https://t.me/TrarekeyBot)**: Less secure; use cautiously.
 
 ### **Process**
 1. **Select Blockchain & Token**.
@@ -77,7 +77,7 @@ Upon validation, frozen funds are returned to the sender’s wallet.
 
 ---
 
-
+ 
 
 ## Links and functions for manual entry of the Trarekey
 
