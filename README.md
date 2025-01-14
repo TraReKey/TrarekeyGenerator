@@ -77,6 +77,26 @@ Upon validation, frozen funds are returned to the sender’s wallet.
 
 ---
 
+
+
+## Links and functions for manual entry of the Trarekey
+
+| Network & Token        | Function                                    |
+|------------------------|---------------------------------------------|
+| USDT (Ethereum Mainnet)| 1. _verifyTxAndKey (0xb158845c)            |
+|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| USDC (Ethereum Mainnet)| 1. _verifyTxAndKey (0xb158845c)            |
+|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| USDT (BNB Smart Chain) | 1. _verifyTxAndKey (0xb158845c)            |
+|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| USDC (BNB Smart Chain) | 1. _verifyTxAndKey (0xb158845c)            |
+|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| USDC (Base Mainnet)    | 1. _verifyTxAndKey (0xb158845c)            |
+|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
+
+
+
+
 ## Manual Token Freezing and Recovery
 ### Supported Networks & Tokens
 
