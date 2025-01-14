@@ -7,8 +7,8 @@
 
 ## Downloads
 - **Standalone Windows Version**:
-  - [TraReKey_0.1.0_x64.exe (13 MB)](./windows/downloads/TraReKey_0.1.0_x64.exe)
-  - [TraReKey_0.1.0_x64_en-US.msi (8 MB)](./windows/downloads/TraReKey_0.1.0_x64_en-US.ms)
+  - [TraReKey_0.1.0_x64.exe (11 MB)](./windows/downloads/TraReKey_0.1.0_x64.exe)
+  - [TraReKey_0.1.0_x64_en-US.msi (5 MB)](./windows/downloads/Trarekey Generator_0.1.0_x64_en-US.msi)
 
 ---
 
