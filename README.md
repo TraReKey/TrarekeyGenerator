@@ -63,7 +63,7 @@ Upon validation, frozen funds are returned to the sender’s wallet.
 **TraReKey** is a unique cryptographic identifier generated from the user's seed phrase. It ensures secure verification for token freezing and recovery operations.
 
 ### **Generation Methods**
-1. **Local Application**: Use the TraReKey Generator for secure, offline generation.
+1. **Local Application**: Use the TraReKey Generator(Windows) for secure, offline generation.
 2. **Web-Based or [Telegram Bot](https://t.me/TrarekeyBot)**: Less secure; use cautiously.
 
 ### **Process**
